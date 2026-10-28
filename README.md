@@ -1,110 +1,93 @@
+<img width="100%" alt="Abhishek Pal Neon Developer Banner" src="https://github.com/user-attachments/assets/5fed57cf-256a-41ad-b0ec-39a889de32d2" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Abhishek%20Pal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer&descSize=18&descAlignY=60" />
 
 <div align="center">
-
-<img width="100%" src="https://github.com/user-attachments/assets/5fed57cf-256a-41ad-b0ec-39a889de32d2" alt="Abhishek Pal Neon Developer Banner" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhishek+Pal+%F0%9F%91%8B;Full+Stack+.NET+Developer;Building+with+.NET+%7C+Angular+%7C+SQL+Server;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
 
 <a href="https://github.com/abhishek9793">
-  <img src="https://img.shields.io/badge/GitHub-abhishek9793-181717?style=for-the-badge&logo=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer+%F0%9F%9A%80;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;I+build+scalable+web+applications;Always+learning%2C+always+building+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=abhishek9793&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhishek9793&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/abhishek9793?style=for-the-badge&logo=github&color=0ea5e9" alt="Followers" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Abhishek Pal
-Role: Full Stack .NET Developer
-Backend: C#, ASP.NET Core, REST APIs
-Frontend: Angular, TypeScript, Bootstrap
-Database: SQL Server, EF Core, Dapper
-Tools: Git, GitHub, Visual Studio, Postman
-Focus: Clean Code, Scalable APIs, Continuous Learning
-```
+I develop **scalable web applications** using **.NET Core, Angular, and SQL Server**.
 
-- 🔭 Building maintainable web applications and REST APIs.
-- 🧩 Interested in clean architecture and solving real-world problems.
-- 🌱 Continuously learning modern development practices.
-- 🤝 Open to collaborating on useful software projects.
+| | |
+|---|---|
+| 💻 **Backend** | C#, ASP.NET Core, REST APIs |
+| 🎨 **Frontend** | Angular, TypeScript, Bootstrap |
+| 🗄️ **Database** | SQL Server, EF Core, Dapper |
+| ☁️ **Tools** | Git, GitHub, Postman, Azure |
+| 🌱 **Mindset** | Always learning and improving my skills |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,mssql,azure,git,github,visualstudio,vscode&theme=dark" alt="Technology stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,bootstrap,html,css,js,azure,git,github,postman,visualstudio,vscode&perline=7" />
+</p>
 
-<br/><br/>
+---
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dapper-007ACC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge" />
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek9793&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek9793&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishek9793&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek9793&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek9793/abhishek9793/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek9793/abhishek9793/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abhishek9793/abhishek9793/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/abhishek9793?tab=repositories">
-  <img src="https://img.shields.io/badge/💻_Explore-My_Repositories-2563EB?style=for-the-badge" />
-</a>
-
-</div>
-
-> 📌 Add your best public projects here with a short description, screenshots, setup instructions, and technologies used.
+> 🔧 Coming soon — adding my best projects here!
 
 ---
 
-## 📊 GitHub Dashboard
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/abhishek9793">
+    <img src="https://img.shields.io/badge/GitHub-abhishek9793-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek9793&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek9793&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek9793&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- [ ] Build and document portfolio-quality projects
-- [ ] Improve system design and application architecture
-- [ ] Explore cloud deployment and CI/CD
-- [ ] Contribute to open-source projects
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Great!
-
-<a href="https://github.com/abhishek9793">
-  <img src="https://img.shields.io/badge/Follow_Me-on_GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
-
-<i>Build • Learn • Innovate • Repeat</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=100&section=footer" width="100%" alt="Animated gradient footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
