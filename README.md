@@ -68,14 +68,6 @@ I develop **scalable web applications** using **.NET Core, Angular, and SQL Serv
   <img src="https://ghchart.rshah.org/7c3aed/abhishek9793" alt="Contribution chart" width="100%" />
 </p>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek9793/abhishek9793/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek9793/abhishek9793/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abhishek9793/abhishek9793/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 ---
 
 ## 🚀 Featured Projects
