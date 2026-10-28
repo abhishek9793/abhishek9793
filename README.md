@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**abhishek9793/abhishek9793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhishek Pal 👋
 
-Here are some ideas to get you started:
+### Full Stack .NET Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop scalable web applications using .NET Core,
+Angular, and SQL Server.
+
+- 💻 Backend: C#, ASP.NET Core, REST APIs
+- 🎨 Frontend: Angular, TypeScript, Bootstrap
+- 🗄️ Database: SQL Server, EF Core, Dapper
+- ☁️ Tools: Git, GitHub, Postman, Azure
+- 🌱 Always learning and improving my skills
+
+### Technologies I Work With
+
+`.NET Core` · `C#` · `Angular` · `TypeScript`
+`SQL Server` · `Entity Framework Core` · `Dapper`
+`REST APIs` · `Git` · `Azure`
+
+### Featured Projects
+
+Coming soon — adding my best projects here!
+
+### Connect With Me
+
+- GitHub: https://github.com/abhishek9793
