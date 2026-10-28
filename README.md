@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Abhishek Pal Neon Developer Banner" src="https://github.com/user-attachments/assets/5fed57cf-256a-41ad-b0ec-39a889de32d2" />
 
 # Hi, I'm Abhishek Pal 👋
 
