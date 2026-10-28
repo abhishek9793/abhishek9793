@@ -64,7 +64,9 @@ I develop **scalable web applications** using **.NET Core, Angular, and SQL Serv
 
 ## 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek9793&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/7c3aed/abhishek9793" alt="Contribution chart" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake
 
